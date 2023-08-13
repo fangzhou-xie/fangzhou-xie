@@ -7,7 +7,7 @@ PhD in Economics, R developer and package maintainer
 
 
 ### R Packages
-- [differential](https://github.com/fangzhou-xie/differential)
+- [differential](https://github.com/fangzhou-xie/differential) - differential programming in R
 - [rethnicity](https://github.com/fangzhou-xie/rethnicity) - predict ethnicity from names 
 - [xutils](https://github.com/fangzhou-xie/xutils) - several personal useful functions
 - [Randomuseragent](https://github.com/fangzhou-xie/Randomuseragent) - Randomly Shuffle User-Agent Strings 
